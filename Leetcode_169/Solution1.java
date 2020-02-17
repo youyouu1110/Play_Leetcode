@@ -2,7 +2,7 @@ package Leetcode_169;
 
 public class Solution1 {
 
-	// ±º‰∏¥‘”∂»O(N^2)
+	
 	public int majorityElement(int[] nums) {
 		for(int num : nums) {
 			int count = 0;
